@@ -19,3 +19,4 @@ Suggestions for improvements and things to add:
 * Printing.
 * PDF generation.
 
+![CleanShot 2025-01-14 at 14 57 17@2x](https://github.com/user-attachments/assets/5199c3d9-ee8a-4890-b275-5a0b7aa8d74d)
